@@ -18,3 +18,11 @@ Who painted the ceiling of the Sistine Chapel:,Leonardo da Vinci,Raphael,Donatel
 Which element has the chemical symbol Fe:,Fluorine,Gold,Iron,Silver,3
 What is the strongest poker hand:,Four of a Kind,Full House,Royal Flush,Straight,3
 What game was bundled with the Nintendo Gameboy:,Kirbys Dream Land,Pokemon Red,Super Mario Land,Tetris,4
+What is the capital of France:,Berlin,London, Paris,Madrid,3
+What is the chemical symbol for gold:,Cu,Ag,Fe,Au,4
+Which planet is known as the "Red Planet":,Mars,Venus,Jupiter,Saturn,1
+Who painted the Mona Lisa:,Leonardo da Vinci,Vincent van Gogh,Pablo Picasso,Claude Monet,1
+What is the chemical formula for water:,CO2,H2O,NaCl,CH4,2
+Who wrote "Hamlet":,William Shakespeare,Charles Dickens,Mark Twain,Jane Austen,1
+Which continent is the largest by land area:,North America,Africa,Asia,South America,1
+What is the main ingredient in guacamole:,Banana,Pineapple,Orange, Avocado,4
